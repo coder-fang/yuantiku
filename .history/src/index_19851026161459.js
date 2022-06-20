@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-// 清除默认边距与样式
-import 'reset-css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
